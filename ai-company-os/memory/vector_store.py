@@ -1,0 +1,6 @@
+from abc import ABC,abstractmethod
+class VectorStore(ABC):
+ @abstractmethod
+ def upsert(self,reference,text,metadata):...
+ @abstractmethod
+ def search(self,query,limit=10):...

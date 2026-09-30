@@ -1,0 +1,1 @@
+export function ProjectMonitor({items}:{items:any[]}){return <section className="card"><h2>Project Monitor</h2>{items.map(x=><div key={x.id}><b>{x.name}</b> <span className="badge">{x.status}</span><div>Progress {x.progress}%</div></div>)}</section>

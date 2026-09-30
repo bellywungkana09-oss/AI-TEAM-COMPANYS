@@ -1,0 +1,1 @@
+export function ApprovalPanel(){return <section className="card"><h2>Approvals</h2><p>Pending approvals will appear here.</p></section>

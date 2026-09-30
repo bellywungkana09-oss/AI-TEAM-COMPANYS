@@ -1,0 +1,1 @@
+export function EmployeeMonitor({items}:{items:any[]}){return <section className="card"><h2>AI Workforce</h2>{items.map(x=><div key={x.id}><b>{x.name}</b> — {x.role} · {x.department} <span className="badge">{x.status}</span></div>)}</section>

@@ -1,0 +1,6 @@
+{
+  "theme": "luxury-dark",
+  "accents": { "ice": "#3ec5ff", "gold": "#d6b36a", "ink": "#07090e" },
+  "spawn": { "x": 0, "z": 6.6, "yaw": 0 },
+  "note": "Runtime layout lives in src/lib/company/layout.ts and is served by GET /api/v1/virtual-office/state."
+}

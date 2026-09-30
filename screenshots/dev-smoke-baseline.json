@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "AI Company OS",
+      "hasCanvas": true,
+      "bodyTextLen": 292,
+      "bodyTextHash": "c6aaafb7ec86bb0c6119b90f3507428c49cb5dba7589feedab54ce698c797249",
+      "bodyTextPrefix": "AI COMPANY OS Virtual floor Live Command Center W forward · S ba",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "AI Company OS",
+      "hasCanvas": false,
+      "bodyTextLen": 252,
+      "bodyTextHash": "b329d8d0103057e79629b648311b137d0da51b9749288e556518a702ec344ce8",
+      "bodyTextPrefix": "AI COMPANY OS Virtual floor Linking Command Center Move Rooms HE",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

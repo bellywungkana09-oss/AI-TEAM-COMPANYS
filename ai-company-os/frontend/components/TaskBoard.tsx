@@ -1,0 +1,1 @@
+export function TaskBoard({items}:{items:any[]}){return <section className="card"><h2>Task Board</h2>{items.map(x=><div key={x.id}><b>{x.title}</b> · {x.status} · {x.priority} · {x.assigned_employee||'Unassigned'}</div>)}</section>

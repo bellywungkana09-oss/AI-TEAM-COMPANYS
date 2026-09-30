@@ -1,0 +1,5 @@
+TASK_ASSIGNED="task_assigned"
+EMPLOYEE_STARTED_TASK="employee_started_task"
+EMPLOYEE_COMPLETED_TASK="employee_completed_task"
+APPROVAL_REQUESTED="approval_requested"
+PROJECT_PHASE_CHANGED="project_phase_changed"

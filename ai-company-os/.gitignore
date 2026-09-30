@@ -1,0 +1,13 @@
+.env
+.env.local
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.next/
+coverage/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+postgres_data/
+redis_data/

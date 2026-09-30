@@ -1,0 +1,1 @@
+import{t as e}from"./VirtualOffice-D4jQAT5f.js";var t=e;export{t as component};

@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "AI Company OS",
+      "hasCanvas": false,
+      "bodyTextLen": 295,
+      "bodyTextHash": "69ff7812b9cf1306baaa26041a67cafad9f1cdce1ee94cf2d8ca78f40b38f931",
+      "bodyTextPrefix": "AI COMPANY OS Virtual floor Linking Command Center W forward · S",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "AI Company OS",
+      "hasCanvas": false,
+      "bodyTextLen": 252,
+      "bodyTextHash": "b329d8d0103057e79629b648311b137d0da51b9749288e556518a702ec344ce8",
+      "bodyTextPrefix": "AI COMPANY OS Virtual floor Linking Command Center Move Rooms HE",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: canvas disappeared",
+    "desktop: body text replaced (similar length, page start changed)"
+  ]
+}

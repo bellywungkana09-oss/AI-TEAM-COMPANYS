@@ -1,0 +1,1 @@
+export function LiveActivity({items,live}:{items:any[],live:boolean}){return <section className="card"><h2>Live Activity <span className="badge">{live?'STREAMING':'OFFLINE'}</span></h2>{items.map(x=><div key={x.id}><b>{x.event}</b><p>{x.description}</p></div>)}</section>

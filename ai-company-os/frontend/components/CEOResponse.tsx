@@ -1,0 +1,1 @@
+export function CEOResponse({data}:{data:any}){if(!data)return null;return <section className="card"><h2>Alexander · CEO AI</h2><h3>{data.project}</h3><p>{data.strategy?.objective}</p></section>
